@@ -1,3 +1,3 @@
 # Problems-solved
 
-This repositorie contains some resolutions of simple problems.
+This repository contains some resolutions of simple problems.
